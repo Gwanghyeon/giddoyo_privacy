@@ -36,7 +36,7 @@ AdMob may collect device information and advertising identifiers (e.g., ADID or 
 
 You can opt-out of personalized advertising through your mobile device's settings (Android: "Ads" / iOS: "Tracking").
 
-Related Link: Google's Advertising Privacy Policy
+Related Link: https://policies.google.com/technologies/ads
 
 Google Books API (Book Search)
 
@@ -44,7 +44,7 @@ We use the Google Books API to provide the book search feature.
 
 Search queries (such as book titles or authors) entered by you are sent to Google's servers to retrieve search results.
 
-Related Link: Google's Privacy Policy
+Related Link: https://policies.google.com/privacy
 
 4. Contact Us
 If you have any questions or concerns regarding this Privacy Policy or your data, please contact us at:
@@ -98,7 +98,7 @@ AdMob은 맞춤형 광고를 제공하기 위해 사용자의 기기 정보 및 
 
 사용자는 모바일 기기의 설정(안드로이드: '광고' / iOS: '추적')을 통해 맞춤형 광고 수신을 거부할 수 있습니다.
 
-관련 링크: Google의 광고 개인정보처리방침
+관련 링크: (https://policies.google.com/technologies/ads
 
 Google Books API (도서 검색)
 
@@ -106,7 +106,7 @@ Google Books API (도서 검색)
 
 사용자가 입력한 검색어(도서명, 저자 등)는 검색 결과를 반환받기 위해 Google 서버로 전송됩니다.
 
-관련 링크: Google의 개인정보처리방침
+관련 링크: https://policies.google.com/privacy
 
 4. 개인정보 보호 책임자 및 문의 창구
 앱의 개인정보처리와 관련하여 문의사항이나 의견이 있으신 경우, 아래의 연락처로 언제든지 연락 주시기 바랍니다.
@@ -165,7 +165,7 @@ AdMobは、パーソナライズド広告を提供するために、ユーザー
 
 ユーザーは、モバイルデバイスの設定（Android：「広告」 / iOS：「トラッキング」）を通じて、パーソナライズド広告の受信を拒否することができます。
 
-関連リンク：Googleの広告に関するプライバシーポリシー
+関連リンク：https://policies.google.com/technologies/ads
 
 Google Books API（書籍検索）
 
@@ -173,7 +173,7 @@ Google Books API（書籍検索）
 
 ユーザーが入力した検索クエリ（書籍名、著者名など）は、検索結果を受け取るためにGoogleのサーバーに送信されます。
 
-関連リンク：Googleのプライバシーポリシー
+関連リンク：https://policies.google.com/privacy
 
 4. お問い合わせ窓口
 本アプリの個人情報の取り扱いに関して、ご質問やご意見がございましたら、以下の連絡先までお問い合わせください。
